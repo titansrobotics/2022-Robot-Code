@@ -1,1 +1,1 @@
-@python robot.py deploy --nc
+@python robot.py deploy
